@@ -6,6 +6,8 @@ A full-stack web application for browsing, searching, and purchasing medicines o
 
 Live Project : https://wellnessroute01.netlify.app/
 
+# Project Screenshots : <a href = 'https://github.com/amaanpathan2313/Wellness-Forever-Online-Medicines-/tree/main/frontend'> Click Here</a>
+
 
 ## 🚀 Features
 
