@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 // const API_BASE = 'https://quickmed-logistics-and-transportation.onrender.com/api';
-const API_BASE = 'http://localhost:3000/api';
+const API_BASE = 'https://wellness-forever-backend-8ep4.onrender.com/api';
+
 
 // Create axios instance
 const api = axios.create({
